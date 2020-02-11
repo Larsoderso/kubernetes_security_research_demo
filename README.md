@@ -4,3 +4,8 @@
 - Kubebench
   - https://github.com/aquasecurity/kube-bench
 - kube-hunter
+
+
+# Minikube
+minikube dashboard
+
